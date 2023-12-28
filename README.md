@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Duy (Richard)
-- 👀 I’m interested in AI, Data Science & Microfluidics. 
+- 👀 I’m interested in AI, Data Science, Biotech & Medicine. 
 - 🌱 I’m currently learning machine learning models 
 - 💞️ I’m looking to collaborate on AI & Data Science Projects 
 - 📫 How to reach me duydinhng@gmail.com; 
