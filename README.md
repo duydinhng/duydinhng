@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Duy (Richard)
-- 👀 I’m interested in AI, Data Science, Biotech & Medicine. 
-- 🌱 I’m currently learning machine learning models 
-- 💞️ I’m looking to collaborate on AI & Data Science Projects 
+- 👀 I’m interested in LLMs,AI, Data Science, Biotech & Medicine. 
+- 🌱 I’m currently supervising Dinh Lab.  https://github.com/duydinhlab
+- 💞️ I’m looking to collaborate on AI for Scientific Discovery, LLMs, AI for Drug Discovery Projects 
 - 📫 How to reach me duydinhng@gmail.com; 
 https://www.linkedin.com/in/duy-dinh-50a0a280/
 
